@@ -1,0 +1,6 @@
+age = 34.5
+name = 'puneet'
+
+print(" Hello ({}) your age is {} ".format(name, age))
+
+print "Name is " + name +  "and age is" +age

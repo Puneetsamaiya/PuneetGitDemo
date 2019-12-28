@@ -1,0 +1,4 @@
+age = 34
+name = 'puneet'
+
+print(" Hello {} your age is {} ".format(name, age))

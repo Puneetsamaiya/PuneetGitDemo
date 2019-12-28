@@ -1,0 +1,5 @@
+age = 0.20
+name = 'puneet'
+#print '\{\}' "is trying to learn something from" '\{\}' 'year'.format(name, age)
+#print ('My Name and age').format(name, age)
+print '{0:.3f}'.format(1.0/3)
